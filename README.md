@@ -46,10 +46,7 @@ C:\Users\Administrator\.aws\credentials
 Create or download the following scripts into:
 C:\Users\Administrator\Desktop\EC2_Auto_stop_start\
 
-Copy and paste the 2 stop and start python code in this repo
-start_instance.py
-stop_instance.py
-
+Copy and paste the 2 stop and start python codes in this repo
     
 🗓️ Schedule the Tasks (Task Scheduler)
 ✅ Schedule Start Script (5:00 AM CST, Weekdays)
